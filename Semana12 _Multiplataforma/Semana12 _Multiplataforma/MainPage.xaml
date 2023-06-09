@@ -102,7 +102,7 @@
         <Button Text="×" Grid.Row="2" Grid.Column="3"
                 BackgroundColor="{x:Static local:SharedResources.OpButtonBkColor}" TextColor="White"
                 Command="{Binding OnSelectOperator}"
-                CommandParameter="x"
+                CommandParameter="×"
                 FontSize="36" CornerRadius="0"  />
         
         <Button Text="-" Grid.Row="3" Grid.Column="3"
